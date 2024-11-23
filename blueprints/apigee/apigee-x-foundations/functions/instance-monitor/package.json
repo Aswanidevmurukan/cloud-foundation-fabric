@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@google-cloud/functions-framework": "^3.3.0",
+    "@google-cloud/functions-framework": "^3.4.2",
     "@google-cloud/logging-bunyan": "^5.1.0",
     "bunyan": "^1.8.15",
     "@google-cloud/monitoring": "^4.0.0"
